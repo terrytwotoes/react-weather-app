@@ -1,12 +1,14 @@
 # React Weather App
 
-Welcome to the React Weather App! This application allows you to retrieve and display weather information using the api.weather.gov API. With a user-friendly interface built using React and Create React App, you can quickly check the weather conditions for a specific location.
+Welcome to the React Weather App! This application allows you to retrieve and display weather information using the OpenWeather API. With a user-friendly interface built using React and Create React App, you can quickly check the weather conditions for a specific location.
+
+![1](https://github.com/terrytwotoes/react-weather-app/assets/62052347/978fff98-7820-42df-97e3-b83e2aa98e7b)
 
 
 
 ## Features
 
-- Fetches weather data from the api.weather.gov API.
+- Fetches weather data from the OpenWeather API.
 - Displays current weather conditions including temperature, humidity, wind speed, and more.
 - Provides a clean and responsive user interface.
 - Easy-to-use and intuitive design.
