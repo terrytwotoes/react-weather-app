@@ -50,7 +50,9 @@ You can deploy your React Weather App using various platforms like Netlify, Verc
 - React
 - Tailwind CSS
 - Create React App
-- api.weather.gov API
+- OpenWeather API
+- Unsplash API
+  
 
 ## Acknowledgments
 
